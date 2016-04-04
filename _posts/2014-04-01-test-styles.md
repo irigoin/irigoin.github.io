@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Test Theme Styles"
-visibility: none
 ---
 
 # Heading 1
