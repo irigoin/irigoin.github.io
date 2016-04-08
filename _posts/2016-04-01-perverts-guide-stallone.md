@@ -1,7 +1,6 @@
 ---
 layout: post
 title: the pervert's guide to stallone
-published: false
 ---
 
 La historia de cómo Sylvester Stallone se reinventó de héroe en actor de carácter comienza, paradójicamente, en aquellos tiempos de películas de acción de grandes presupuestos y baja calidad. Es la opinión de quien esto escribe que su reconocimiento público, aún pese a no haberle dado un premio de la Academia, es en realidad una construcción propia que él mismo fue delineando en la elección de los personajes de algunos de esos filmes que mucha gente vio y pocos recuerdan.
