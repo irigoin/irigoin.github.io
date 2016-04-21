@@ -18,12 +18,14 @@ title: irigoin.github.io
 
 {% endfor %}
 
-<div class="right">
+<div class="left">
   {% if paginator.next_page %}
     <a class="pagination-item older" href="{{ paginator.next_page_path | prepend: site.baseurl }}">«</a>
   {% else %}
     <span class="pagination-item older">«</span>
   {% endif %}
+</div>
+<div class="right">
   {% if paginator.previous_page %}
     <a class="pagination-item newer" href="{{ paginator.previous_page_path | prepend: site.baseurl }}">»</a>
   {% else %}
