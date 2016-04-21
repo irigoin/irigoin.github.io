@@ -21,8 +21,6 @@ sass:
   sass_dir: css
   style:    expanded
 
-permalink:  "/:title"
-
 exclude:
 - README.md
 
