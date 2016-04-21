@@ -10,7 +10,7 @@ name: 'David Irigoin'
 #  use site.url only inside the web feed template (e.g. requires full url incl. protocol)
 #path:  / 
 url:  'http://irigoin.github.io/'
-pagination: 3
+paginate: 3
 
 ########
 # more settings
