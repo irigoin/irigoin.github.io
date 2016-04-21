@@ -11,6 +11,7 @@ name: 'David Irigoin'
 #path:  / 
 url:  'http://irigoin.github.io/'
 paginate: 2
+paginate_path: ":num"
 
 ########
 # more settings
