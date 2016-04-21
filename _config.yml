@@ -10,7 +10,7 @@ name: 'David Irigoin'
 #  use site.url only inside the web feed template (e.g. requires full url incl. protocol)
 #path:  / 
 url:  'http://irigoin.github.io/'
-
+paginate:            3
 
 ########
 # more settings
@@ -30,3 +30,7 @@ exclude:
 safe: true
 lsi: false
 
+# Gems
+gems:
+  - jekyll-paginate
+  - jekyll-gist
