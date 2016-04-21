@@ -18,4 +18,4 @@ Queda claro que un ejercicio de análisis como este no debería hacerse en el va
 
 [^fn-n1]: Lo mismo parece pasarle a la alguna vez simpática [*Unbreakable Kimmy Schmidt*](http://netflix.com/title/80025384), atrapada irremediablemente en su humor ingenuo y exagerado. El salvoconducto, en este caso, es que estamos ante una sitcom y no un drama.
 [^fn-n2]: Por supuesto, no estoy comparando al personaje de Peter Scolari con el de Jeffrey Tambor, es una simple mención de problemáticas análogas.
-[^fn-n3]: En la misma temporada, una separación propia es tratada con idéntica frivolidad. *"I'll be happy to pay for an Uber to transport you and your stuff out of my apartment"*, concluye ella, unilateral, el (en teoría) doloroso rompimiento.
+[^fn-n3]: En la misma temporada, una separación propia es tratada con idéntica frivolidad. *"I'll be happy to pay for an Uber to transport you and your stuff out of my apartment"*, concluye ella, unilateral, el (en teoría) difícil rompimiento.
