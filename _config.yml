@@ -24,6 +24,8 @@ sass:
 exclude:
 - README.md
 
+permalink:  "/:title"
+
 lsi: false
 
 # Gems
