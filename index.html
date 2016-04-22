@@ -6,14 +6,10 @@ title: irigoin.github.io
 
 {% for post in site.posts %}
 
-<article class='post'>
-  <h1 class='post-title'>
-    <a href="{{ site.path }}{{ post.url }}">
-      {{ post.title }}
-    </a>
-  </h1>
-  <div class="post-date">{{ post.date | date: "%d.%m.%y" }}</div>
-  {{ post.content }}
-</article>
+<div>
+  {{ post.date | date: "%d.%m.%Y" }}
+    |
+    <a href="{{ site.path }}{{ post.url }}">{{ post.title }}</a>
+</div>
 
 {% endfor %}
