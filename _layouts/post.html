@@ -9,7 +9,7 @@ layout: default
 
 <div id="post-nav" class="right">
   {% if page.next.url %} 
-    <em><a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a></em>
+    <em><a class="next" href="{{page.next.url}}">{{page.next.date | date: "%d.%m.%y" }} | {{page.next.title}} &raquo;</a></em>
   {% endif %} 
 </div>
 <div id="post-nav" class="left">
