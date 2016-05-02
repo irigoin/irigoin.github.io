@@ -14,7 +14,7 @@ layout: default
 </div>
 <div id="post-nav" class="left">
   {% if page.previous.url %} 
-    <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.date | date: "%d.%m.%y" }} | {{page.previous.title}}</a>
+    <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.date | date: "%d.%m.%y" }} | <em>{{page.previous.title}}</em></a>
   {% endif %} 
 </div>
 
