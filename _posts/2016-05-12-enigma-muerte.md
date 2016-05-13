@@ -28,4 +28,6 @@ En 2013, la televisión australiana -en particular el señero programa de invest
 >  
 >[*Rubaiyat*](http://gutenberg.org/files/246/246-h/246-h.htm), Omar Khayyám, traducción por Edward FitzGerald (1859)
 
+---
+
 [^fn-n1]: Tanto como para abrir un [tópico de Reddit](http://reddit.com/r/UnresolvedMysteries/comments/2xlfdd/taman_shud_ongoing_discussion_thread/), una [petición de Change.org](http://change.org/p/solve-the-taman-shud-mystery-by-identifying-somerton-man) y hasta una [campaña de recaudación](http://indiegogo.com/projects/identification-of-the-somerton-man) para lograrlo.
