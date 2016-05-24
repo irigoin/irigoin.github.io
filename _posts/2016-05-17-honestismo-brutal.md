@@ -1,7 +1,6 @@
 ---
 layout: post
 title: honestismo brutal
-published: false
 ---
 
 Entre marzo de 1997 y marzo de 1998 se publicaron por primera vez en Argentina los tres tomos que compusieron *La Voluntad: Una Historia De La Militancia Revolucionaria En Argentina*. Escrito como una suerte de novela de no-ficción, este racconto a través de los pormenores de las distintas izquierdas (y sus facciones armadas) y su lugar dentro de la triste historia del país en los años posteriores a la caída y proscripción del peronismo y después, durante el último gobierno de Perón y la dictadura militar que se inició en 1976, se convirtió rápida y quizás sorpresivamente en uno de los libros fundamentales de la historiografía argentina. Había sido escrito en conjunto por dos autores, cada uno de ellos de particular vínculo con las temáticas abordadas: Eduardo Anguita, cuadro del ERP que estuvo preso más de diez años y fue amnistiado por Alfonsín, y Martín Caparrós, que se exilió en París después del golpe del '76. Criticado por la escolástica, que lo acusó de demasiado simplista y enfocado en los grandes números de venta (que alcanzó con bastante facilidad), *La Voluntad* se las arregló, sin embargo, para ser un libro pionero en el intento de reconstrucción histórica de las muchas narrativas que se dieron cita en una época caracterizada por bruscos cambios sociopolíticos que hicieron eclosión en años de cruenta oscuridad. Parte del atractivo de *La Voluntad* radicaba en la manera en que se estructuraba su discurso, elaborado cuidadosamente para parecer y ser verosímil; más que un material académico, Anguita y Caparrós (especialmente Caparrós) parecían buscar recrear en las muchas páginas de su elefantiásico volumen aquella "novela imposible" que fuera el sueño inconcluso de Rodolfo Walsh. Había en *La Voluntad* (que se reeditó en 2006, esta vez en cinco volúmenes) una manera tangible de recrear una era bastante difícil de imaginar, devenida sin lugar a dudas de la sutil y necesaria combinación de un hombre de acción como Anguita con un observador nato y de filoso sentido de la realidad como Caparrós.
@@ -20,4 +19,4 @@ Por supuesto, la corrupción es uno de los grandes males de todo proceso económ
 
 ---
 [^fn-n1]: Es interesante, por ejemplo, pensar la hipótesis de privatización del sistema de educación estatal de EE.UU. a la luz de los conflictos con el presupuesto universitario.
-[^fn-n2]: Federico Sturzenegger, hoy presidente del Banco Central, fue parte de la pata estatal del desfalco
+[^fn-n2]: Federico Sturzenegger, hoy presidente del Banco Central, fue parte de la pata estatal del desfalco.
