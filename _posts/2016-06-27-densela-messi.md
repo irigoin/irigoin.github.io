@@ -1,7 +1,6 @@
 ---
 layout: post
 title: dénsela a messi
-published: false
 ---
 
 Recién estaba recordando una cita de Brecht que me gusta bastante, y que me hace pensar bastante en la relación que tenemos los argentinos con Messi. Está en la obrita sobre la vida de Galileo, *Leben Des Galilei*. En un momento el tipo discute con uno de sus discípulos y le sostiene el argumento de que el trabajo de los científicos es lo opuesto al conocimiento y que no hay nada especialmente destacable en eso; que la idea de la labor del científico no es el descubrimiento como si saliera de un repollo sino más bien la eliminación -por la vía del socavamiento paulatino que supone el trabajo constante en una materia determinada- del margen de error. Herido en su orgullo de proto-prohombre, el discípulo le espeta un ácido *«¡pobre del país que no tiene héroes!»*. Galileo (o Brecht en la piel de éste) le responde, somero y sagaz, *«No. Pobre del país que necesita héroes.»*
