@@ -24,4 +24,4 @@ Un día antes del partido Messi hizo una distinción discursiva interesante: le 
 >To strive, to seek, to find,  
 >and not to yield.*  
 >
->"[Ulysses](http://www.poetryfoundation.org/poems-and-poets/poems/detail/45392)", Alfred Lord Tennyson (1842)
+>"[Ulysses](http://poetryfoundation.org/poems-and-poets/poems/detail/45392)", Alfred Lord Tennyson (1842)
