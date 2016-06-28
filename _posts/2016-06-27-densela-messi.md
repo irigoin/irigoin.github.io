@@ -20,7 +20,7 @@ Un día antes del partido Messi hizo una distinción discursiva interesante: le 
 >*One equal temper of heroic hearts,  
 >made weak by time and fate,  
 >but strong in will  
->To strive, to seek, to find,  
+>to strive, to seek, to find,  
 >and not to yield.*  
 >
 >"[Ulysses](http://poetryfoundation.org/poems-and-poets/poems/detail/45392)", Alfred Lord Tennyson (1842)
