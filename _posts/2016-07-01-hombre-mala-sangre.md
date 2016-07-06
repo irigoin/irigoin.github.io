@@ -1,7 +1,6 @@
 ---
 layout: post
 title: hombre de mala sangre
-published: false
 ---
 
 Michael Peterson está muerto y no lo sabe.
