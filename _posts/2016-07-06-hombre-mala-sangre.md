@@ -1,7 +1,6 @@
 ---
 layout: post
 title: hombre de mala sangre
-published: false
 ---
 
 Michael Peterson está muerto y no lo sabe. Su vida terminó una noche hace quince años, cuando según su relato entró a su mansión de Durham, North Carolina tras haber retozado por un rato fumando su pipa cerca de la piscina y encontró a su mujer Kathleen al pie de la escalera circular que llevaba al primer piso. La rodeaba un gigantesco charco de sangre que había oscurecido con sus salpicaduras las paredes beige y terminaba en el recoveco donde su cuerpo, apenas vivo, respiraba sus últimos alientos. Desesperado, Peterson [llamó al 911](http://nbcnews.com/video/dateline/52061596#52061596) y a duras penas pudo reproducir la horrenda escena que estaba presenciando: la mujer que amaba más que a nada en el mundo se desangraba, su cabeza destrozada, exhalando pesadamente a medida que su vida y la de toda su familia entraban en un vórtice del que no saldrían nunca más. Shakespeare, poeta al que Peterson -él mismo un escritor millonario, aunque de dudoso talento- gustaba citar de memoria, palabra por palabra, escribió alguna vez que en nuestra existencia *«yacen escondidas más de mil muertes»*[^fn-n1]. Es justo decir que esa madrugada de 2001, Michael Peterson empezaba a batallar con una comprensión superior de las proféticas palabras del Bardo, lucha que le valdría vivir muchas muertes, vaya paradoja, dentro de una sola vida.
