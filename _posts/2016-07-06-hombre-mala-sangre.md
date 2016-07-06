@@ -24,9 +24,5 @@ En 2014, un juez levantó la restricción del arresto domiciliario a Michael, de
 
 ---
 
-[^fn-n1]:*«What's yet in this,  
-that bears the name of life? Yet in this life  
-lie hid more thousand deaths: yet death we fear,  
-that makes these odds all even.»*  
-*Measure For Measure* (1603), acto III, escena 1.
+[^fn-n1]:*«What's yet in this, that bears the name of life? Yet in this life lie hid more thousand deaths: yet death we fear,that makes these odds all even.»* [*Measure For Measure*](http://shakespeare.mit.edu/measure/measure.3.1.html) (1603), acto III, escena 1.
 [^fn-n2]: Un googleo superficial de los actores involucrados sugiere que esta trama puede expandirse: así lo demuestran las historias de los ex asistentes del fiscal [Freda Black](http://donnagore.com/2015/07/15/closing-arguments-and-the-downfall-of-a-prosecutor) y Michael Nifong <sup>[[PDF]](http://www.ncbar.gov/Nifong%20Findings.pdf)</sup> y de [Tracey Cline](http://newsobserver.com/news/local/counties/durham-county/article23179362.html), fiscal en las audiencias de 2011.
