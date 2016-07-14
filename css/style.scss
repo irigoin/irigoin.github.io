@@ -242,6 +242,23 @@ table {
 }
 
 //////////////////////////
+// Footer
+
+.main-container {
+    float:left;
+    position:relative;
+    left:50%;
+   /*overflow:hidden;*/
+}
+
+.fixer-container {
+    float:left;
+    position:relative;
+    left:-50%;
+}
+
+
+//////////////////////////
 // Positions
 
 .right {
