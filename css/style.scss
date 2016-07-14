@@ -248,17 +248,17 @@ table {
     color: $footer-color;
     font-size: 90%;
     position:absolute;
-    right: 0;
+    float:left;
+    left:50%;
     bottom: 0;
-    left: 0;
    /*overflow:hidden;*/
 }
 
 .fixer-container {
     position:absolute;
-    right: 0;
+    float:left;
+    left:-50%;
     bottom: 0;
-    left: 0;
 }
 
 
