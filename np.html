@@ -1,0 +1,29 @@
+
+---
+layout: default
+title: escuchando
+---
+
+<body>
+ 
+<script type="text/javascript" >
+
+function lfmMostRecentTrack(JSONdata) {
+ try {
+ var oTrack = (new Array().concat(JSONdata.recenttracks.track))[0];
+ document.getElementById("lfmMostRecentTrackArtist").innerHTML = oTrack.artist["#text"];
+ document.getElementById("lfmMostRecentTrackTitle").href = oTrack.url;
+ document.getElementById("lfmMostRecentTrackTitle").innerHTML = oTrack.name;
+ document.getElementById("lfmMostRecentTrackDate").innerHTML = (typeof oTrack.date=="undefined"?"now playing":calculateDateAgo(new Date().getTime()/1000 - oTrack.date.uts));
+ document.getElementById("lfmMostRecentTrack").style.visibility = "visible";
+ } catch(e) {}
+}
+</script>
+ 
+<div id="lfmMostRecentTrack" style="visibility:hidden">
+<a id="lfmMostRecentTrackTitle" href="" target="new"></a><br/>by <span id="lfmMostRecentTrackArtist"></span><br/><span id="lfmMostRecentTrackDate" style="font-size:80%"></span>
+</div>
+ 
+<script type="text/javascript" src="http://ws.audioscrobbler.com/2.0/?method=user.getrecenttracks&user=dvdrgn&api_key=d96b39537ef1f08ae149b54af85806a9&limit=1&format=json&callback=lfmMostRecentTrack"></script>
+ 
+</body>
