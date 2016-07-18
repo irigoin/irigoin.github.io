@@ -1,0 +1,22 @@
+---
+layout: default
+title: autotitulado
+---
+
+<div class="np">
+<script type="text/javascript">
+    $(document).ready(function() {
+        $.getJSON("http://http://ws.audioscrobbler.com/2.0/?method=user.getrecenttracks&user=dvdrgn&api_key=d96b39537ef1f08ae149b54af85806a9&format=json&callback=?", function(data) {
+            var html = '';
+            var counter = 1;
+            $.each(data.recenttracks.track, function(i, item) {
+                if(counter == 1) {
+                    html += 'ahora: <span><a href="' + item.url + '" target="_blank">' + item.name + '</a> - ' + item.artist['#text'] + '</span>';
+                }
+                counter++
+            });
+            $('.listening-to').append(html);
+        });
+    });
+</script>
+</div>
