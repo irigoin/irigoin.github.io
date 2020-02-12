@@ -1,6 +1,6 @@
 ---
 layout: post
-title: un montón de cosas que hago en vez de escribir un libro
+title: hombre de mala sangre
 ---
 
 Me encuentro en lo que podría describirse como el proceso de preparación para un libro que puede que escriba (o no). Como no tengo ni idea de qué entraña semejante misión -jamás me acerqué a la idea de escribir un libro más que en mi febril imaginación, donde además el proceso sólo aparecía en su faceta terminada, un logro sin desarrollo, una corona sin espinas, un trofeo sin campeón- decidí que la primera parte de ese proceso teórico sería la de la documentación. Pero no hablo de una documentación estricta, como la que podría encontrarse en una investigación, sino de en cierto modo documentarse para saber cómo se llevan a cabo las distintas maneras de narrar, las modalidades de explicar una cuestión, los núcleos a partir de los cuales se cuenta una historia. En especial para la misión que tengo estúpidamente decidido acometer: la de una biografía. ¡Maldita (y bendita) la hora en que para sacar algo de adentro mío decidí contar la historia de alguien más!
