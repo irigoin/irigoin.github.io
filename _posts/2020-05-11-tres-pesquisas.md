@@ -1,6 +1,6 @@
 ---
 layout: post
-title: tres pesquisas en 1978
+title: tres pesquisas
 ---
 
 En 1978, el periodista del *New Jersey Monthly* Steven Levy recorrió dos mil kilómetros hasta la planicie de Wichita, en el estado de Kansas. Iba en busca de un misterio: el cerebro de Einstein. Su pesquisa lo había llevado a recorrer un derrotero estrambótico. Y ahora ahí estaba, en la puerta de la casa en la que se escondía un tal Thomas Stoltz Harvey, preguntándole por el cerebro del hombre más brillante de la historia. No era casual que tocara ese timbre: sus [averiguaciones](https://njmonthly.com/articles/historic-jersey/the-search-for-einsteins-brain/) le habían contado todo el resto. En abril de 1955 el ilustre físico había ingresado a la terapia del hospital de la universidad de Princeton, donde un aneurisma aórtico terminó con su vida a la una y cuarto de la madrugada del lunes 18. Menos de siete horas después, en una improvisada autopsia hecha sin permiso de la familia de Einstein, Thomas Harvey se tomaba la atribución de quitarle al cadáver (que iba a ser cremado) su masa encefálica para cortarla en pequeños pedacitos destinados a la posteridad. En total distribuyó 170 fragmentos de cerebro entre patólogos como él. En su afiebrada teoría, el experimento que le costaría su carrera y su matrimonio iba a responder una de las grandes incógnitas de la humanidad: ¿se puede saber cómo se ve la genialidad?
