@@ -3,25 +3,9 @@ layout: default
 ---
 
 <article class='post'>
-  <h1 class='post-title'>{{ page.title }}</h1> <div class="post-date">{{ page.date | date: "%d.%m.%y" }} · <span class="eta"></span></div>
+  <h1 class='post-title'>{{ page.title }}</h1> <div class="post-date">{{ page.date | date: "%d.%m.%y" }}</div>
   {{ content }}
- 
-		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
-	
-		<script src="js/readingTime.min.js"></script>
-		
-		<script>
-		
-			$(function() {
-			
-				$('post').readingTime({
-					lang: 'es',
-				});
-				
-			});
-		
-		</script>
-</article>
+ </article>
 
 <div id="post-nav" class="right">
   {% if page.next.url %} 
