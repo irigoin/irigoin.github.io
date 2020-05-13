@@ -3,8 +3,30 @@ layout: default
 ---
 
 <article class='post'>
-  <h1 class='post-title'>{{ page.title }}</h1> <div class="post-date">{{ page.date | date: "%d.%m.%y" }}</div>
+  <h1 class='post-title'>{{ page.title }}</h1> <div class="post-date">{{ page.date | date: "%d.%m.%y" }} · <span class="eta"></span></div>
   {{ content }}
+ 
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
+	
+		<script type="text/javascript">
+		if (typeof jQuery == 'undefined') {
+		    document.write(unescape("%3Cscript src='js/lib/jquery.1.9.1.min.js' type='text/javascript'%3E%3C/script%3E"));
+		}
+		</script>
+		
+		<script src="js/readingTime.min.js"></script>
+		
+		<script>
+		
+			$(function() {
+			
+				$('article').readingTime({
+					lang: 'es',
+				});
+				
+			});
+		
+		</script>
 </article>
 
 <div id="post-nav" class="right">
