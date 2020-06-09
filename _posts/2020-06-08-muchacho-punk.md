@@ -3,7 +3,7 @@ layout: post
 title: muchacho punk
 ---
 
->My life has been the poem I would have writ,
+>My life has been the poem I would have writ,  
 >But I could not both live and utter it.[^fn-n1]
 >
 >Henry David Thoreau, *[A Week On The Concord And Merrimack Rivers](http://www.gutenberg.org/files/4232/4232-h/4232-h.htm)* (1849)
@@ -16,20 +16,20 @@ Su hermana Jeanine jamás podrá volver a caminar. Su prometido, Dennes, salió 
 
 Semanas antes del fatídico viaje Dennes, al que le decían D. Boon, y su banda se presentaron en la televisión pública de Los Angeles. Era raro verlos en tele, y más en ese formato. A la derecha están George, su flequillo y un par de bongós. A su lado, de camisa leñadora, Mike. Su pierna izquierda, extendida cuán larga es, termina en una vieja All Star. No toca el bajo sino una guitarra acústica, y el brazo del micrófono le aparece de ninguna parte cuando se lanza a un pequeño manifiesto que será lo único que se dirá durante la presentación. *"Nunca me importó el tipo que lee los parquímetros, hasta que fui el tipo que lee los parquímetros"*. Atrás suyo está D., casi en posición de loto. Los pibes la descosen. Con una velocidad inusitada, pero sin agresión, se meten de lleno en las canciones. Las atraviesan de manera tal que para cuando la cosa termina uno no entiende bien qué acaba de ver, pero sabe que está en presencia de la genialidad. [Está online](https://www.youtube.com/watch?v=yxeg5a4-epw), y si me tengo que quedar con un solo video de todos los que hay en YouTube, elijo ese. Me saca de cualquier tristeza. Si te estás preguntando qué son los Minutemen, te recomiendo verlo. Por más que le falte su sonido eléctrico y filoso, tiene de sobra todo lo demás que los hizo únicos: la camaradería, la diversión, la sensación de que cualquier cosa es posible. Y la poesía, por favor, la poesía.
 
->El amor más puro, el tacto de una mujer
->Una mente fuerte, un cuerpo duro
->Todo lo que no podía tener
->Todo lo que no podía ver
+>El amor más puro, el tacto de una mujer  
+>Una mente fuerte, un cuerpo duro  
+>Todo lo que no podía tener  
+>Todo lo que no podía ver  
 >Hombrecito con un arma en la mano[^fn-n2]
 
 Esa canción se llama "Little Man With A Gun In His Hand". Es la última del acústico, y también la última del sexto disco de los Minutemen, *Buzz Or Howl Under The Influence Of Heat*. Tiene ocho temas y dura quince minutos. El anterior, *What Makes A Man Start Fires?*, tiene 18, dura veintiséis y te impone una duda: ¿qué lleva a un tipo a iniciar un incendio? La música de Minutemen es así. De tan breve te confunde, y de tan impactante te hace pensar. Me acuerdo cuando leí esta letra por primera vez y mi cerebro explotó.
 
->Digamos que tengo un arma en la mano
->Seis balas, seis puntos de vista
->Materialismo
->Digamos que tengo un libro en la mano
->Cincuenta mil palabras, cincuenta mil traducciones
->Idealismo
+>Digamos que tengo un arma en la mano  
+>Seis balas, seis puntos de vista  
+>Materialismo  
+>Digamos que tengo un libro en la mano  
+>Cincuenta mil palabras, cincuenta mil traducciones  
+>Idealismo  
 >Destruye tus diccionarios[^fn-n3]
 
 Mike Watt tenía veintidós años cuando escribió eso. Yo tendría poco más de quince cuando lo descubrí. Ambos empezábamos nuestra carrera en el punk, sólo que con dos décadas de diferencia. Por supuesto, él cambió el estilo para siempre y yo lo abandoné ni bien me hice –eso que llaman– adulto, pero nunca podría dejar a los Minutemen. A sus discos, pero sobre todo a su filosofía. Su profundo rechazo a cualquier tipo de taxonomía fue un acto de resistencia que nació como necesidad y se volvió principio ético. Portaban un descuidado estilo surfer en el tiempo en que el hardcore decía que tenías que pelarte y usar borceguíes, se animaban a covers de Creedence y Blue Öyster Cult entre punks rabiosos y se llamaban como yanquis de derecha[^fn-n4] aunque eran todo lo contrario. No había provocación, sólo la lengua de dos pibes cuyas vidas se habían yuxtapuesto de tal manera que su ideología y su humor eran uno solo. Se conocieron en un parque de San Pedro, California. Tenían trece años. La mamá de D., que murió poco después, les enseñó a tocar y los dejó ensayar en su casa. En ese ámbito de cuidado y contención desarrollaron un andamiaje único. No es casual que ocurriera a contrapelo del mito fundante del punk como desclasado y huérfano: las mejores revoluciones prescinden de la cáscara y se concentran en el contenido. En junio de 1980 convencieron a uno de los pibes populares del colegio, George Hurley, de que tocara con ellos. George era más del jazz, pero pensó que ensayar le serviría para afinar su estilo autodidacta y salvaje. Después de unos meses de duda les dijo que sí. Nacía Minutemen.
@@ -40,18 +40,18 @@ La primera vez que tocaron fue antes de Black Flag, por entonces la banda emblem
 
 Por supuesto, ninguna obra de Minutemen fue tan mentada como su octavo álbum. A fines de 1983, tenían material como para un nuevo larga duración. Cuando se enteraron que sus colegas de SST, los mucho más serios Hüsker Dü, editarían un disco doble conceptual llamado [*Zen Arcade*](https://open.spotify.com/album/0J1DP5GvKrzWumwzlcFhLc), se lanzaron a una especie de competencia. En abril de 1984 grabaron una docena de composiciones más e idearon un concepto derivado de su amor por los autos y –en otro gesto iconoclasta– su admiración por *Ummagumma*, disco de Pink Floyd de 1969. Cada uno eligió los suficientes temas para llenar una cara de cada vinilo, y a la cuarta y última le pusieron *lado basura*[^fn-n7]. Los lados empiezan con el ruido del motor del auto de su correspondiente integrante y la tapa del disco, al que llamaron *Double Nickels On The Dime*, se guarda un par de guiños. Ese año, el ex Van Halen Sammy Hagar había tenido un hit llamado "I Can't Drive 55" en el que se quejaba del límite de velocidad de las autopistas, banal rebeldía que despertó el lado más ácido del humor de Boon y Watt. En la foto, los ojos de Mike sonríen a través del espejo retrovisor de su Escarabajo, el velocímetro clavado en 55 millas, *double nickels* (o dos monedas de cinco centavos) mientras vuelve a San Pedro a través de la interestatal 10, o en argot de camionero, *the dime*. El disco salió en julio de 1984. Un año y medio después, esa larga ruta vería morir al mismo D. que abre este, su manifiesto con una metáfora demoledora: *"serio como un ataque al corazón"*. A lo largo de los cuatro lados del vinilo hay 45 canciones, por lo que sería agotador citarlas una a una. Alcanza con decir que tiene posiblemente la mejor canción de protesta sobre la guerra que marcó a Estados Unidos para siempre. Se llama, apenas, "Viet Nam".
 
->Digamos que tengo un número, ese número es cincuenta mil
->Eso es el diez por ciento de quinientos mil
+>Digamos que tengo un número, ese número es cincuenta mil  
+>Eso es el diez por ciento de quinientos mil  
 >¡Aquí estamos, en la Indochina francesa![^fn-n8]
 
 Más allá de la crítica retrospectiva al conflicto bélico más impopular de la historia, D. estaba igual de preocupado por el momento en que vivía. *Double Nickels* es producto de la paranoia de la guerra fría y el corrosivo republicanismo de Reagan, filtrados por un género que empezaba a dejar atrás ataduras estilísticas que se difuminaban. En el [único videoclip](https://www.youtube.com/watch?v=UDr25zjd4yM) de la historia del grupo, grabado en esa época, se imaginan bombardeados por el presidente mientras cantan sobre *"perder el amor propio por un tipo que decide mi destino"*. La expansiva propuesta de Minutemen es una intransigente respuesta tanto a la simplificación con que la política catalogaba a la juventud de la época como a las férreas limitaciones de una escena a la que habían superado. Apenas meses después de su gran proyecto, abrazaron la necesidad de hacer canciones más accesibles en el irónicamente titulado *Project: Mersh* (*Proyecto: Comercial*), que los puso en la escena del rock "alternativo". Habían cortado lazos con su público de siempre, y debían pensar cómo seguir. La gira con R.E.M. suponía la última serie de presentaciones en un tiempo. Tras cinco años intensos y reveladores, lo único en lo que pensaba D. Boon era en casarse, descansar y después ver qué hacer con su futuro. No llegó a hacer ninguna de las tres. Los Minutemen se terminaron aquel 22 de diciembre de 1985.
 
 Cuando explico por qué me gusta tanto Minutemen, no pierdo tiempo describiendo su música. A esa parte es mejor –y mucho más efectivo– experimentarla. En su lugar dedico un rato a contar qué clase de pibe era cuando los descubrí y cuántas cosas me enseñaron sin saberlo. Tampoco me sentía a gusto con lo que me decían que tenía que ser un punk. La anarquía se me hacía escapista, y rechazar cualquier cosa que no fuera parte de un canon caprichoso y ortodoxo era cansador. Yo escuchaba los discos que me gustaban en mi casa y miraba los recitales desde la parte de atrás mientras me reía de lo estúpidos que eran los que escupían a los músicos. Casi al final del acústico en la tele de Los Angeles, D. canta un clásico de la banda, "History Lesson - Part 2". Es una biografía de Minutemen hecha canción. Al final, un verso dice *"Mike Watt y yo tocando la guitarra"*. Seguramente por la calidad de los instrumentos que le prestaron, dice *"tocando guitarras de mierda"*. Mike se echa a reír: dijo mierda en televisión. Una vez a D. Boon le preguntaron qué era el punk. *"Punk es lo que sea que hicimos con él"*, respondió.
 
->Vivo sudor pero sueño años luz
->Soy la marea, el ascenso y la caída
->El soldado de lo real, el niño que ríe
->El uno de muchos, el niño en llamas
+>Vivo sudor pero sueño años luz  
+>Soy la marea, el ascenso y la caída  
+>El soldado de lo real, el niño que ríe  
+>El uno de muchos, el niño en llamas  
 >El que lleva el tiempo, el que mide el espacio[^fn-n9]
 
 [^fn-n1]:*«Mi vida ha sido el poema que hubiera escrito; pero no podría haberlo vivido y compuesto a la vez»*
