@@ -3,8 +3,8 @@ layout: post
 title: muchacho punk
 ---
 
->My life has been the poem I would have writ,  
->But I could not both live and utter it.[^fn-n1]
+>*My life has been the poem I would have writ,  
+>But I could not both live and utter it.*[^fn-n1]
 >
 >Henry David Thoreau, *[A Week On The Concord And Merrimack Rivers](http://www.gutenberg.org/files/4232/4232-h/4232-h.htm)* (1849)
 
