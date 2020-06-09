@@ -54,7 +54,6 @@ Cuando explico por qué me gusta tanto Minutemen, no pierdo tiempo describiendo 
 >*El uno de muchos, el niño en llamas*  
 >*El que lleva el tiempo, el que mide el espacio*[^fn-n9]
 
-<details><summary>Notas</summary>
 [^fn-n1]:*«Mi vida ha sido el poema que hubiera escrito; pero no podría haberlo vivido y compuesto a la vez»*
 [^fn-n2]: *«Highest love, a woman's touch; A strong mind, a strong body; All the things he couldn't have; All the things he couldn't see; Little man with a gun in his hand»*
 [^fn-n3]: *«Let's say I got a gun in my hand; six slugs, six points of view: materialism; Let's say I got a book in my hand; fifty thousand words, fifty thousand translations: idealism; Tear up your dictionaries»*. "Definitions", de *Paranoid Time* (1980)
@@ -64,4 +63,3 @@ Cuando explico por qué me gusta tanto Minutemen, no pierdo tiempo describiendo 
 [^fn-n7]: El segundo disco de *Ummagumma* contiene composiciones solistas de los cuatro Pink Floyd. En el arte del álbum, Watt incluyó una [graciosa dedicatoria](https://f.v1.n0.cdn.getcloudapp.com/items/1c3K2x11061z0u2o2k1G/tomen.jpg) a Hüsker Dü por darles la idea.
 [^fn-n8]:*«Let's say I got a number - That number's fifty thousand; that's ten percent of five hundred thousand; Here we are, in French Indochina!»*. Estados Unidos sufrió poco más de 50 mil bajas en una guerra en la que se estima que murieron 500 mil vietnamitas.
 [^fn-n9]:*«I live sweat but dream light years; I am the tide, the rise and the fall; The reality soldier, the laugh child; The one of many, the flame child; The time monitor, the space measurer»*. "The Glory Of Man", de *Double Nickels On The Dime* (1984)
-</details>
