@@ -1,6 +1,11 @@
-una cadena de recuerdos
+---
+layout: post
+title: una cadena de recuerdos
+---
 
-> *«Si pensara en lo cruel que es este mundo, probablemente me suicidaría después de un tiempo. Si pusiera mi energía en pensar en eso, no tendría fuerzas para hacer música.»*John Frusciante, en [*Funky Monks*](https://youtu.be/z0tTJ4SakE0?t=23) (1992)  
+> *«Si pensara en lo cruel que es este mundo, probablemente me suicidaría después de un tiempo. Si pusiera mi energía en pensar en eso, no tendría fuerzas para hacer música.»*
+>
+>John Frusciante, en [*Funky Monks*](https://youtu.be/z0tTJ4SakE0?t=23) (1992)  
 
 Está muerto. El Chateau Marmont es —como para otros antes: ese lugar de excesos, falso glamour y perdición— su tumba. A diferencia de él, que parece no entender su estado terminal, nosotros lo sabemos. Porque hay un testigo. El tipo se llama Robert Wilonsky. Escribe para un diario de Los Angeles. Se termina 1996. Pasaron cuatro años y medio desde que una noche, a nueve mil kilómetros, John le dijo a sus compañeros que se volvía a California para morir. ¿Viste la famosa cima del mundo? Bueno, él se bajó ni bien sintió que el aire se ponía más delgado arriba. Y las voces. Las voces que le decían que no iba a poder, que se tenía que ir. Las voces lo persuadieron de que su vida había terminado. Las voces, todo el tiempo, en su cabeza. Para acallarlas, John se inyecta. El ritual de la aguja lo tranquiliza, la inminencia del mullido confort vacío, del viaje. Primero el polvo, después el fuego, al final el líquido. Todo para adentro, para que adentro no haya nada. John Frusciante tiene veintiséis años, y su trayecto de la cúspide al cajón está por completarse.
 
@@ -12,7 +17,7 @@ Primero fue la muerte. En octubre del ’93, John tocó en el Viper Room, uno de
 
 Después fue el fuego. Hacía unos meses que John se había quedado, ahora sí, solo. Sin las voces, pero también sin Toni, su musa. Se habían conocido antes del despegue de los Red Hot Chili Peppers, la banda gracias a la que su vida se transformó en la de John Frusciante, estrella de rock. Toni lo ayudó a atravesar ese cambio. John exigía que ella lo acompañara en las giras, en abierta violación a una regla establecida por el grupo. Se encerraban en su cuarto de hotel a pintar, improvisar (él tocaba el clarinete, ella la flauta) y escribir. Pero esa noche en Japón —esa noche en la que soltó amarras— también nació un vacío al que John colmó con drogas. Toni aguantó lo que pudo. Verlo así le dolía demasiado. Cuando se mudó a New York, *«“la casa estaba perfectamente normal, ordenada”»*[^fn-n3]. En cuestión de semanas John destrozó todo. La única actividad que lo sosegaba era pintar, pero se volvería su perdición. Un día cualquiera, el cuarto donde dejaba los óleos y aerosoles se incendió. Hubo una explosión, que despertó al dueño de casa justo a tiempo para salvar su vida. Al día siguiente, huyó a New York a reunirse con Toni. Sus guitarras quedaron entre los restos; se las robaron. No le importó demasiado.
 
-
+![alt text](https://raw.githubusercontent.com/irigoin/irigoin.github.io/master/images/trowftd.jpg "Reloaded feelings")
 
 Sin embargo, hubo música. Grabados en su nueva casa de Venice Beach, *Niandra LaDes And Usually Just A T-Shirt* de 1994 y *Smile From The Streets You Hold*, de 1997 documentaron su estado mental. En el ’94, para promover su debut, John fue entrevistado por la [señal holandesa VPRO](https://www.youtube.com/playlist?list=PLE128DEDEDF63B9D6). Habían pasado dos años sin señales de él. Pelilargo, cadavérico, no recuerda al guitarrista de los Peppers: es un Syd Barrett desaliñado. Ambas cosas parecen intencionales. *“*[La heroína] *es una manera de ponerte en contacto con lo bello en vez de dejar que la maldad del mundo corrompa tu alma”*, [afirma](https://youtu.be/Jk6pQGSMIx0?t=584), dejando a su entrevistador en silencio. Estaba a punto de tocar fondo cuando supo que había expiado sus fantasmas y desapareció una vez más. No hay moraleja, sólo esto: en la clínica psiquiátrica Las Encinas, de Pasadena, John se limpió. Su cuerpo, palimpsesto de sus abusos, era la víctima principal. Sus brazos —llenos de abscesos— fueron reconstruidos. Las astillas en su boca reemplazadas. Fortalecido el exterior, el interior despertó a una nueva claridad. Tenía veintiocho años y había sido un drogadicto los últimos tres. Quizás era tiempo de dar vuelta los términos. Tiempo de escuchar otras voces.
 
@@ -24,13 +29,13 @@ Como álbum es cambiante: por momentos melancólico, por otros misterioso, a vec
 
 Es fácil decir que John Frusciante se convirtió en un místico cuyas excentricidades reemplazaron a sus excesos. Quizás sea el camino que muchos empleen al intentar explicar el arco en el que encerró su carrera. Pero eso anularía el tiempo transcurrido, y en ese acto se llevaría puesta una búsqueda artística que pervivió incluso los peores momentos de su escarceo con las drogas. A través de toda esa (auto)destrucción, John siempre intentó crear, pero no como un escape o un subterfugio. Intentó crear porque es lo único que le sale, lo único que lo conduce a través de cualquier laberinto que le toque atravesar —la mayor parte de ellos, como nos pasa a todos, creados por uno mismo— y lo único que importa. Una vida consagrada a responder la más difícil de las preguntas: ¿qué es el arte? Si tomáramos *To Record Only Water For Ten Days* como guía a lo que piensa su creador, el arte y la vida serían, en esencia, lo mismo. Uno vive para crear, y crea para vivir. En el medio experimenta, y todo lo que pasa informa y nutre esa búsqueda de manera tal que aunque nadie lo entienda (o lo quiera entender) las pistas para saberlo todo están ahí, en lo único que queda de nosotros después de que nos vamos de este mundo.
 
-> Dejarle una celda a mi mente solitaria  
-> seguir fluyendo en un simulacro  
-> Sigo aferrándome a mí mismo  
-> Sé humilde, hacelo lentamente  
-> como yo lo hago en público  
-> aún aferrándome  
-> a la celda de espacio que me contiene[^fn-n9]  
+>*Dejarle una celda a mi mente solitaria*   
+>*seguir fluyendo en un simulacro*    
+>*Sigo aferrándome a mí mismo*  
+>*Sé humilde, hacelo lentamente*  
+>*como yo lo soy en público*  
+>*aún aferrándome*  
+>*a la celda de espacio que me contiene*[^fn-n9]  
 
 
 [^fn-n1]: “[Blood On The Tracks](https://www.phoenixnewtimes.com/music/blood-on-the-tracks-6423201)”, Robert Wilonsky, *New Times LA* [hoy *Phoenix New Times*], 12/12/1996. Esta y todas las traducciones son propias.
