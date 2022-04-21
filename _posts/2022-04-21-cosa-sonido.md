@@ -1,6 +1,6 @@
 ---
 layout: post
-title: una cadena de recuerdos
+title: la cosa y el sonido
 ---
 
 Corría 1960. Los otrora aliados en la Segunda Guerra Mundial —la Unión Soviética por un lado, Estados Unidos por el otro— llevaban quince años provocándose con maniobras de inteligencia, buscando muescas en las cortinas de hierro que se imponían con mutuo desdén. Cada ventaja mínima era un triunfo en favor ya no de un sistema de gobierno, sino de un modo de vida. Pero ese año, un incidente puso en contexto una rivalidad que parecía haber llegado demasiado lejos. Estados Unidos envió un avión U-2 al espacio aéreo enemigo, y al derribo de la aeronave por parte de la Unión Soviética le siguió una denuncia de espionaje al Consejo de Seguridad de las Naciones Unidas. La reunión estaba pautada para el 22 de mayo, y los enviados estadounidenses se estaban guardando lo mejor para el final.
