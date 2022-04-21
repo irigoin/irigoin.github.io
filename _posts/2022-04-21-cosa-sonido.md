@@ -1,6 +1,7 @@
-- - - -
-## layout: post
-title: la cosa y el sonido
+---
+layout: post
+title: una cadena de recuerdos
+---
 
 Corría 1960. Los otrora aliados en la Segunda Guerra Mundial —la Unión Soviética por un lado, Estados Unidos por el otro— llevaban quince años provocándose con maniobras de inteligencia, buscando muescas en las cortinas de hierro que se imponían con mutuo desdén. Cada ventaja mínima era un triunfo en favor ya no de un sistema de gobierno, sino de un modo de vida. Pero ese año, un incidente puso en contexto una rivalidad que parecía haber llegado demasiado lejos. Estados Unidos envió un avión U-2 al espacio aéreo enemigo, y al derribo de la aeronave por parte de la Unión Soviética le siguió una denuncia de espionaje al Consejo de Seguridad de las Naciones Unidas. La reunión estaba pautada para el 22 de mayo, y los enviados estadounidenses se estaban guardando lo mejor para el final.
 
@@ -10,7 +11,7 @@ Ocho años antes, en 1952, Joseph Bezjian —del equipo de seguridad del Departa
 
 Entonces, el momento Arquímedes en la bañera. En el estudio, detrás de un escritorio, una pared revestida en madera era la fuente. Kennan sospechaba de unos obreros soviéticos que habían sido contratados para arreglar el lugar, pero la ubicación precisa del ruido develó una verdad más antigua. Oculto dentro de la reproducción del Great Seal, un sofisticado dispositivo —que consistía en un micrófono con una delgada membrana por delante, unido a una antena— sugería que el espionaje venía de 1945. Ese año, la Organización de Pioneros Vladimir Lenin le había obsequiado la obra al entonces embajador W. Averell Harriman. Tres gestiones y siete años después, el caballo de Troya era desmantelado. Esa noche, Bezjian durmió con el aparato bajo su almohada. Él no lo sabía, pero sólo una persona era capaz de inventar semejante Cosa.
 
-alt text
+![alt text](https://raw.githubusercontent.com/irigoin/irigoin.github.io/master/images/cosa.jpg "The thing")
 
 Un mayo hace cien años, alguien montó un show para Lenin en medio del Kremlin. En el escenario, apenas un hombre y una especie de podio con una antena vertical que sobresalía de uno de los extremos. Era la última revolución sonora: un instrumento que se podía tocar sin usar las manos, y no necesitaba que el ejecutante supiera de música. Aunque el líder sufría por su fragilidad, aún buscaba enterarse de las novedades. Por eso convocó al responsable de semejante invención, que consideró un honor brindarle un concierto privado. Su nombre —fiel a la tradición científica de la que, como físico, formaba parte— era igual al de su instrumento. Esa noche, Lenin conoció a Leon Theremin.
 
@@ -20,7 +21,7 @@ De la noche a la mañana, Theremin se convirtió en —¿el primer?— rockstar.
 
 En diciembre de 1927 aterrizó en Estados Unidos para presentarse con la Filarmónica de New York. El espectáculo fue tan bien recibido que decidió quedarse y patentar su invención. Cuando la crisis del ’29 amenazó con quitarle su medio de vida, reapareció la Unión Soviética. Le propusieron un trato: espiaría para ellos los desarrollos industriales de las compañías a las que tenía acceso privilegiado, y a cambio financiarían su laboratorio sonoro en la 54 Oeste neoyorquina. Sin embargo, Theremin usó el generoso estipendio que le daban por sus servicios para codearse con la alta sociedad. En 1938 dejó a su mujer soviética, Katia, y se casó con una bailarina del American Negro Ballet, Lavinia Williams. La notoriedad de su romance con una joven afroamericana fue demasiado para el gobierno de su país. Le exigieron que volviera y lo condenaron a seis años de trabajos forzados en las minas de Magadan, con la compañía del sonido trepidante y continuo del viento ártico.
 
-alt text
+![alt text](https://raw.githubusercontent.com/irigoin/irigoin.github.io/master/images/sonido.png "The sound")
 
 En 1968, Aleksandr Solzhenitsyn publicó *The First Circle*. Los críticos fueron veloces en ver al protagonista de la novela, Gleb Nerzhin, como una suerte de retrato del autor, y a su trama —que describía los campos de trabajo científico que eran parte del gulag— como una especie de biografía. Estos sitios, llamados *sharashka*, se dedicaban a investigar nuevas formas de espionaje y armamento, y fueron mantenidos en secreto por el régimen. No era para menos. Varios de sus presos más reconocidos fueron a parar allí, incluido el pobre Leon, que tuvo la discutible suerte de que Lavrenty Beria —director de la policía secreta soviética— lo descubriera en Magadan y lo mandara al centro atómico de Moscú. Según contó luego Solzhenitsyn en su larga investigación *The Gulag Archipielago*, los sharashka eran *«islas del paraíso»*. En ellas, el desgraciado Theremin volvería a brillar.
 
