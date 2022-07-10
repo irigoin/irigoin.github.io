@@ -1,7 +1,7 @@
-- - - -
+---
 layout: post
 title: voten por miles
-- - - -
+---
 
 Todo se resuelve en [los primeros minutos](youtu.be/hfaR_lIV87M). Una línea de bajo hipnótica, un pulso repetitivo, insistente. Por detrás, delante y a los lados de la mezcla, una batahola percusiva, un colchón demente que seduce con su reiteración. Dibujando figuras sobre este enjambre de sonidos, una guitarra distorsionada y los quejidos de un saxofón compiten por la atención del oyente. Pero lo que persiste es el ritmo. Lo que sea que pasa arriba no importa tanto como ese groove entrecortado y potente, la destilación de un concepto y, también, el final de un recorrido. Estás escuchando a Miles Davis, pero en realidad ya no lo estás escuchando a él. El hombre de mil versiones —el fino trompetista de los arreglos suntuosos, el tipo que reinventó el bebop sólo para romperlo, la superestrella del jazz— ya no tiene más que demostrarle a nadie. Quizás por eso quiere romper con todo.
 
