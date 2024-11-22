@@ -1,19 +1,22 @@
+---
+layout: post
+title: cosas detrás del sol
+---
+
 ![captionless image](https://miro.medium.com/v2/resize:fit:2560/format:webp/1*uZwrXW_7XThghTH1DUW_xQ.jpeg)
 
-Cosas detrás del sol
-====================
+>*La vostra nominanza é color d’erba,*
+>*che viene e va; e quei la discolora*
+>*Per cui ell’esce della terra acerba.*[^fn-n1]
+>
+Dante Alighieri, [*Purgatorio*](https://www.gutenberg.org/cache/epub/1012/pg1012-images.html#purgatorio), XI, 115
 
-
-> La vostra nominanza é color d’erba,
-> che viene e va; e quei la discolora
-> Per cui ell’esce della terra acerba.
-> Dante Alighieri, Purgatorio, XI, 115
-
-> Fame is but a fruit tree, so very unsound
-> It can never flourish ‘til its stock is in the ground
-> So men of fame can never find a way
-> ‘til time has flown far from their dying day.
-> _Nick Drake, “Fruit Tree” (_Five Leaves Left_, Island, 1969)_
+>*Fame is but a fruit tree, so very unsound*
+>*It can never flourish ‘til its stock is in the ground*
+>*So men of fame can never find a way*
+>*'til time has flown far from their dying day.*[^fn-n2]
+>
+>Nick Drake, “Fruit Tree” (_Five Leaves Left_, Island, 1969)
 
 La fama es, como dice el dicho, una diosa caprichosa: evita a quienes la buscan, y se entrega a quienes no parecen desearla. En noviembre de 1974, en la pequeña población inglesa de Tanworth-in-Arden, un atribulado joven llamado Nicholas Rodney Drake puso fin a su breve existencia con un cóctel de pastillas. Este desenlace constituía el esperable epílogo de una historia previsible: Drake, talentoso cantautor, había pasado buena parte de su vida adulta buscando seducir a una deidad que se le había vuelto esquiva.
 
@@ -88,3 +91,6 @@ Los años hicieron de su legado uno de los más importantes de la historia de la
 > there’s not a bird of day that dare
 > extinguish that delight.
 > _William Butler Yeats, “A Last Confession”_
+
+[^fn-n1]: «Es vuestra fama del color de la hierba / que viene y va, y que se decolora / Que de la tierra se recoge amarga.»
+[^fn-n2]: «La fama es tan poco interesante como un árbol frutal / que no florece hasta que su fruto está en el suelo / Tal como los hombres de fama no encuentran su camino / hasta que el tiempo se les ha acabado.»
