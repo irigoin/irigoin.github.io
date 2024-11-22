@@ -3,6 +3,8 @@ layout: post
 title: cosas detrás del sol
 ---
 
+>Publicado originalmente en [Medium](https://medium.com/@dvdrgn/ebda8f2c6ebb) el 27 de noviembre de 2014. Recomiendo también [este recorrido](https://ia800203.us.archive.org/19/items/EscucharEsAprender15-20.09.10/EscucharEsAprender15-20.09.10.mp3), emitido originalmente en Radio ISER el 20 de septiembre de 2010, por su trayectoria.
+
 >*La vostra nominanza é color d’erba,*  
 >*che viene e va; e quei la discolora*  
 >*Per cui ell’esce della terra acerba.*[^fn-n1]
