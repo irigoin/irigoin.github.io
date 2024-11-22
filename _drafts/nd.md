@@ -78,19 +78,21 @@ Enfermo, débil y deprimido, en la madrugada del 24 de noviembre de 1974 Nick to
 
 Los años hicieron de su legado uno de los más importantes de la historia de la música contemporánea. Sus canciones —dispersas a lo largo de tres álbumes y unos cuantos compilados— han servido de inspiración para generaciones de músicos que ven en su genialidad una referencia. La fama es, sin dudas, una diosa esquiva. Pero también es una falacia, un atavío. Como la obra de Nick Drake prueba póstumamente, la notoriedad es una ilusión con la que se nos engaña. Se nos vende una eternidad incomprobable, y a cambio se nos pide abandonar la esencia que nos hace únicos en pos de una versión que pueda ser _consumida_. Pero las canciones —sobre todo las de un tipo como Drake— no son bienes fungibles. Son enseñanzas, viñetas sobre la vida. Eso no puede venderse ni comprarse. La vida se vive y, quizás, se aprende. También quizás, a veces, algo de ella pueda enseñarse.
 
-> You can say the sun is shining if you really want to
-> I can see the moon and it seems so clear
-> You can take the road that takes you to the stars now
-> I can take a road that’ll see me through.
-> _Nick Drake, “Road” (_Pink Moon_, Island, 1972)_
-> 
-> And give his own and take his own
-> and rule in his own right
-> And though it loved in misery
-> close and cling so tight,
-> there’s not a bird of day that dare
-> extinguish that delight.
-> _William Butler Yeats, “A Last Confession”_
+>*You can say the sun is shining if you really want to*  
+>*I can see the moon and it seems so clear*  
+>*You can take the road that takes you to the stars now*  
+>*I can take a road that’ll see me through.*[^fn-n7]
+>
+> Nick Drake, “Road” (_Pink Moon_, Island, 1972)
+>
+>*And give his own and take his own*  
+>*and rule in his own right*  
+>*And though it loved in misery*  
+>*close and cling so tight,*  
+>*there’s not a bird of day that dare*  
+>*extinguish that delight.*[^fn-n8]
+>
+>William Butler Yeats, [“A Last Confession”](https://rpo.library.utoronto.ca/content/last-confession)
 
 [^fn-n1]: «Es vuestra fama del color de la hierba / que viene y va, y que se decolora / Que de la tierra se recoge amarga.» Esta y todas las traducciones son propias.
 [^fn-n2]: «La fama es tan poco interesante como un árbol frutal / que no florece hasta que su fruto está en el suelo / Tal como los hombres de fama no encuentran su camino / hasta que el tiempo se les ha acabado.»
@@ -98,3 +100,5 @@ Los años hicieron de su legado uno de los más importantes de la historia de la
 [^fn-n4]: «Nunca antes había tenido una emoción en la palma de mi mano / ni sentido la dulce brisa de la copa de los árboles / Pero acá estás / iluminando mi cielo norteño.»
 [^fn-n5]: «Mirame bien, tal vez me veas en el suelo / y es que soy el parásito de este pueblo.»
 [^fn-n6]: «Y era fuerte, fuerte en el sol / Pensé que iba a verte al final del día / Ahora estoy más débil que el azul más pálido / Tan débil, necesitándote tanto.»
+[^fn-n7]: «Si querés podés decir que el sol brilla / Yo puedo ver la luna claramente / Si querés tomá una ruta que te lleve a las estrellas / Yo puedo tomar una ruta que me lleve hasta el final.»
+[^fn-n8]: «Dar lo propio, tomar lo propio, / vivir la propia vida / Y aunque amara miserablemente / asido con desesperada firmeza / No existirá un pájaro diurno que ose / extinguir su disfrute.»
