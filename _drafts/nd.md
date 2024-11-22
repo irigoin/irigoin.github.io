@@ -5,15 +5,15 @@ title: cosas detrás del sol
 
 ![captionless image](https://miro.medium.com/v2/resize:fit:2560/format:webp/1*uZwrXW_7XThghTH1DUW_xQ.jpeg)
 
->*La vostra nominanza é color d’erba,*
->*che viene e va; e quei la discolora*
+>*La vostra nominanza é color d’erba,*  
+>*che viene e va; e quei la discolora*  
 >*Per cui ell’esce della terra acerba.*[^fn-n1]
 >
 Dante Alighieri, [*Purgatorio*](https://www.gutenberg.org/cache/epub/1012/pg1012-images.html#purgatorio), XI, 115
 
->*Fame is but a fruit tree, so very unsound*
->*It can never flourish ‘til its stock is in the ground*
->*So men of fame can never find a way*
+>*Fame is but a fruit tree, so very unsound*  
+>*It can never flourish ‘til its stock is in the ground*  
+>*So men of fame can never find a way*  
 >*'til time has flown far from their dying day.*[^fn-n2]
 >
 >Nick Drake, “Fruit Tree” (_Five Leaves Left_, Island, 1969)
@@ -92,5 +92,5 @@ Los años hicieron de su legado uno de los más importantes de la historia de la
 > extinguish that delight.
 > _William Butler Yeats, “A Last Confession”_
 
-[^fn-n1]: «Es vuestra fama del color de la hierba / que viene y va, y que se decolora / Que de la tierra se recoge amarga.»
+[^fn-n1]: «Es vuestra fama del color de la hierba / que viene y va, y que se decolora / Que de la tierra se recoge amarga.» Esta y todas las traducciones son propias.
 [^fn-n2]: «La fama es tan poco interesante como un árbol frutal / que no florece hasta que su fruto está en el suelo / Tal como los hombres de fama no encuentran su camino / hasta que el tiempo se les ha acabado.»
