@@ -3,7 +3,7 @@ layout: post
 title: cosas detrás del sol
 ---
 
-![captionless image](https://miro.medium.com/v2/resize:fit:2560/format:webp/1*uZwrXW_7XThghTH1DUW_xQ.jpeg)
+![Way to blue](https://raw.githubusercontent.com/irigoin/irigoin.github.io/refs/heads/master/images/nd.jpg)
 
 >*La vostra nominanza é color d’erba,*  
 >*che viene e va; e quei la discolora*  
